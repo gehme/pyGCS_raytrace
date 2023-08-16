@@ -1,2 +1,3 @@
 # pyGCS_raytrace
-Python implementation of the Graduated Cylindrical Shell (GCS) Model, including ray trace computation. 
+Python implementation of the Graduated Cylindrical Shell (GCS) Model, including raytracing computation to produce a synthetic total brigthness image.
+Based on the Python GCS implementation "PyGCS" by XXXX and the IDL implementation by XXXXX
